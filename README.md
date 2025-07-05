@@ -12,6 +12,7 @@ Menampilkan daftar produk berupa:
 - Lumpia Kulit Tahu
 - Paket Komplit
 - Chili Oil
+
 Setiap item produk menampilkan Gambar produk, Nama produk, dan Harga produk
 Saat produk diklik, akan diarahkan ke halaman detail produk, yang berisi:
 - Nama produk
