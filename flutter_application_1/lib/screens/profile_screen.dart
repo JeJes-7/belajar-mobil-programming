@@ -14,7 +14,7 @@ class ProfileScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Nama: Muhammad Shayyoe',
+                  'Nama: Muhammad Shayyoe Ray',
                   style: TextStyle(fontSize: 18),
                 ),
                 Text('NIM: 23820012', style: TextStyle(fontSize: 18)),
